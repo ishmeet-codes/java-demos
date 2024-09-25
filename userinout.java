@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class test1 {
+public class userinout {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter marks of subject 1 :- ");
