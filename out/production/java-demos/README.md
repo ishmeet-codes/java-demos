@@ -10,4 +10,6 @@
 
 - Loops :- [file](loop.java)
   
+- methods :- [file](methods.java)
+
 - Practice Questions :- [file](practice)
