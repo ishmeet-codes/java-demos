@@ -11,5 +11,13 @@
 - Loops :- [file](loop.java)
   
 - methods :- [file](methods.java)
+  
+- Arrays :- [file](arrays.jave)
+  
+- Classes :- [file](custom_class.java)
+
+- Recursion :- [file](recursion.java)
+
+- Variable Arguments :- [file](varsrgs.java)
 
 - Practice Questions :- [file](practice)
