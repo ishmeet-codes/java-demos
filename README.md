@@ -12,4 +12,13 @@
   
 - methods :- [file](methods.java)
 
+- Custom classes :- [file](custom_class.java)
+
+- Arrays :- [file](arrays.java)
+
+- Recursion :- [file](recursion.java)
+
+- Variable Arguments :- [file](varsrgs.java)
+
 - Practice Questions :- [file](practice)
+
